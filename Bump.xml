@@ -1,1 +1,31 @@
-
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>WAGM Videos</title>
+<link>https://www.wagmtv.com</link>
+<atom:link href="https://www.wagmtv.com/arc/outboundfeeds/mrss/category/news/" rel="self" type="application/rss+xml"/>
+<description>WAGM</description>
+<pubDate>Mon, 23 May 2022 12:26:22 +0000</pubDate>
+<language>en</language>
+<item>
+<title>
+<![CDATA[ FDA Approves Boosters 5 to 11 ]]>
+</title>
+<link>https://www.wagmtv.com/video/2022/05/20/fda-approves-boosters/</link>
+<description/>
+<guid isPermaLink="false">https://www.wagmtv.com/video/2022/05/20/fda-approves-boosters/</guid>
+<referenceid>34ae37a7-2fdf-4697-9e7e-67cf221b1939</referenceid>
+<pubDate>Fri, 20 May 2022 14:26:38 +0000</pubDate>
+<media:content isDefault="true" url="https://webpubcontent.gray.tv/wagm/wagm/247_Bump.mov" type="video/mov" duration="11" bitrate="19642" height="1080" width="1920">
+<media:description type="plain">
+<![CDATA[ NewsSource 8 at 6 ]]>
+</media:description>
+<media:title>
+<![CDATA[ FDA Approves Boosters 5 to 11 ]]>
+</media:title>
+<media:thumbnail url="https://gray-wagm-prod.cdn.arcpublishing.com/resizer/m2lsrwKXtAX3izz8se9dXqN3WDY=/do0bihdskp9dy.cloudfront.net/05-20-2022/t_d6b8973fb98f4730b0f9abc70d3c707f_name_file_1280x720_2000_v3_1_.jpg"/>
+<media:keywords>breaking news video,video updates,live video,live updates,breaking news,press conference,live speeches,real time coverage</media:keywords>
+<media:category>News</media:category>
+</media:content>
+</item>
+</channel>
+</rss>
